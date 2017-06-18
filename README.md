@@ -16,7 +16,7 @@ Created on 6/18/2017
      
 	   Windows/Mac requirements, but I don't think there are any)
      
- Build command:    g++ -std=c++11 -lpthread -lX11 -o PicToCSV PicToCSV.cpp
+ Build command:    g++ -std=c++11 -lpthread -lX11 -o CSVToPic CSVToPic.cpp
  
  See the header comments for the PicToCSV program.  This program is the
  
